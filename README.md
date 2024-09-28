@@ -3,7 +3,7 @@
 ## Project Description
 This project aims to predict the demand for shared bikes by analyzing historical data from BoomBikes, a US-based bike-sharing provider. With the business facing challenges due to revenue dips during the COVID-19 pandemic, the goal is to develop a model that helps understand the key factors affecting bike demand. The model can be used by management to make informed decisions and optimize business strategies post-pandemic. This project employs Python and machine learning techniques to create a multiple linear regression model.
 
-Note: Original files related to this project are not shared publicly as they are part of my academic assignments.
+**Note:** Original files related to this project are not shared publicly as they are part of my academic assignments.
 
 ## Table of Contents
 - [Project Structure](#project-structure)
